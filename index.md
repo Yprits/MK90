@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+# MK90 & Co.
+## All information in one place. Work in progress.
 
-You can use the [editor on GitHub](https://github.com/Yprits/MK90/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Piotr Piatek's website dump (3.2021):
+[1](https://github.com/Yprits/MK90/raw/main/Pisi(3-E).rar)
+[2](https://github.com/Yprits/MK90/raw/main/Pisi(f-k).rar)
+[3](https://github.com/Yprits/MK90/raw/main/Pisi(l-o).rar)
+[4](https://github.com/Yprits/MK90/raw/main/Pisi(p).rar)
+[5](https://github.com/Yprits/MK90/raw/main/Pisi(s-w).rar)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+Only "Soviet" [part of dump](https://github.com/Yprits/MK90/blob/main/MKonly.rar)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+More relevant MK90 [emulator](https://github.com/Yprits/MK90/blob/main/mk87emul.rar) and its [sources](https://github.com/Yprits/MK90/blob/main/mk90emex%20(3).zip)
 
-```markdown
-Syntax highlighted code block
+MK90 ROM1
+[sources](https://github.com/Yprits/MK90/blob/main/mk87emul.rar)
 
-# Header 1
-## Header 2
-### Header 3
+MK87 [emulator](https://github.com/Yprits/MK90/blob/main/mk87emul.rar) (cannot be found on any web archive I know)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Yprits/MK90/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+To be continued.
