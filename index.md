@@ -2,7 +2,7 @@
 ## All information in one place. Work in progress.
 
 :ru:
-Russian version [here](https://github.com/Yprits/MK90/blob/gh-pages/russian.md) / Русская версия [здесь](https://github.com/Yprits/MK90/blob/gh-pages/russian.md) :ru:
+Russian version [here](https://yprits.github.io/MK90/russian.html) / Русская версия [here](https://yprits.github.io/MK90/russian.html) :ru:
 
 
 
