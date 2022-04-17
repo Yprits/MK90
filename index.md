@@ -1,6 +1,11 @@
 # MK90 & Co.
 ## All information in one place. Work in progress.
 
+:ru:
+Russian version [here](https://github.com/Yprits/MK90/blob/gh-pages/russian.md) / Русская версия [здесь](https://github.com/Yprits/MK90/blob/gh-pages/russian.md) :ru:
+
+
+
 Piotr Piatek's entire website dump *(3.2021, some data is outdated)*:
 [1](https://github.com/Yprits/MK90/raw/main/Pisi(3-E).rar)
 [2](https://github.com/Yprits/MK90/raw/main/Pisi(f-k).rar)
