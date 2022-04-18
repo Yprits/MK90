@@ -15,6 +15,7 @@
 _________________________________________
 ### MK90
 ![mk90](https://user-images.githubusercontent.com/102995285/163726257-f7cc0537-3b0c-461d-879c-11c3f9871fb6.jpg)
+- [руководство по эксплуатации к МК-90](https://github.com/Yprits/MK90/files/8507407/mk90.pdf), [каталог программ](https://github.com/Yprits/MK90/files/8507410/CatalogProg-mk90.zip), инструкция к МК-92 [Uploading MK-92_manual.zip…]() и описание Бейсика 2.1.[Uploading бейсик 2.1.pdf…]()
 - [Описание аппаратной части](https://yprits.github.io/MK90/rus/hwru.html)
 - [Внутреннее представление данных](https://yprits.github.io/MK90/rus/foru.html)
 - [Описание картриджа](https://yprits.github.io/MK90/rus/caru.html)
