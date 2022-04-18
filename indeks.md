@@ -21,7 +21,11 @@
 
 
 ### MK87
--[Эмулятор с исходниками](https://github.com/Yprits/MK90/raw/main/mk87emul.rar)
+![mk87](https://user-images.githubusercontent.com/102995285/163768441-190e5a9d-f441-432c-840d-f8ddf5491e15.jpg)
+- [Эмулятор](https://github.com/Yprits/MK90/files/8504129/mk87emul.zip)
+- [Исходники](https://github.com/Yprits/MK90/files/8504133/isxodnik.zip)
+- [Сервисный пакет](https://github.com/Yprits/MK90/files/8504154/opisanie.zip) (содержит схемы, руководство пользователя и др.)
+
 
 
 Продолжение следует.
