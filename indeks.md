@@ -15,7 +15,7 @@
 
 ### MK90
 ![mk90](https://user-images.githubusercontent.com/102995285/163726257-f7cc0537-3b0c-461d-879c-11c3f9871fb6.jpg)
-- [Простой считыватель/программатор картриджей][https://yprits.github.io/MK90/rus/prgru.html]
+- [Простой считыватель/программатор картриджей](https://yprits.github.io/MK90/rus/prgru.html)
 - [Эмулятор МК90 для Windows](https://yprits.github.io/MK90/rus/emuru.html) (с исходниками)
 - Частично прокомментированный дизассемблинг ПЗУ [BASIC version 2.0](https://github.com/Yprits/MK90/files/8502160/mk90ro20.2.zip) и [BASIC version 1.0](https://github.com/Yprits/MK90/blob/main/rom1.src).
 
