@@ -31,6 +31,7 @@ _________________________________________
   - [Игры, извлеченные из СМП92-1](https://github.com/Yprits/MK90/files/8505854/games_pack.zip), которые можно записать на обычные картриджи МПО-10 и играть на настоящем МК-90 с любой версией BASIC.
   - Частично прокомментированный [дизассемблированный листинг загрузчика и главного меню](https://github.com/Yprits/MK90/files/8505864/mainmenu.zip)
   - Игра «chess» представляет собой графическую надстройку к программе [chess.sav](http://www.ibiblio.org/pub/academic/computer-science/history/pdp-11/rt/games/) для операционной системы RT-11.
+ - [Шрифт МК-90](https://fontstruct.com/fontstructions/download/1757455) для Windows
 
 _________________________________________
 
