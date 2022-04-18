@@ -15,9 +15,11 @@
 
 ### MK90
 ![mk90](https://user-images.githubusercontent.com/102995285/163726257-f7cc0537-3b0c-461d-879c-11c3f9871fb6.jpg)
+- [Описание аппаратной части](https://yprits.github.io/MK90/rus/hwru.html)
 - [Внутреннее представление данных](https://yprits.github.io/MK90/rus/foru.html)
 - [Описание картриджа](https://yprits.github.io/MK90/rus/caru.html)
 - [Карта памяти картриджа](https://yprits.github.io/MK90/rus/cameru.html)
+- [Картридж памяти только для чтения](https://yprits.github.io/MK90/rus/rocaru.html)
 - [Простой считыватель/программатор картриджей](https://yprits.github.io/MK90/rus/prgru.html)
 - [Программирование МК90](https://yprits.github.io/MK90/rus/asmru.html)
 - Частично прокомментированный дизассемблинг ПЗУ [BASIC version 2.0](https://github.com/Yprits/MK90/files/8502160/mk90ro20.2.zip) и [BASIC version 1.0](https://github.com/Yprits/MK90/blob/main/rom1.src)
