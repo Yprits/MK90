@@ -24,7 +24,7 @@ Only "Soviet" [part of dump](https://github.com/Yprits/MK90/blob/main/MKonly.rar
 
 
 ### MK87
--[emulator with sources](https://github.com/Yprits/MK90/blob/main/mk87emul.rar)
+-[emulator with sources](https://github.com/Yprits/MK90/raw/main/mk87emul.rar)
 
 
 To be continued.
