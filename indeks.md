@@ -21,7 +21,7 @@
 
 
 ### MK87
--[Эмулятор с исходниками](https://github.com/Yprits/MK90/blob/main/mk87emul.rar)
+-[Эмулятор с исходниками](https://github.com/Yprits/MK90/raw/main/mk87emul.rar)
 
 
 Продолжение следует.
