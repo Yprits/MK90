@@ -12,7 +12,7 @@
 
 Только "советская" [часть дампа](https://github.com/Yprits/MK90/blob/main/MKonly.rar)
 
-
+_________________________________________
 ### MK90
 ![mk90](https://user-images.githubusercontent.com/102995285/163726257-f7cc0537-3b0c-461d-879c-11c3f9871fb6.jpg)
 - [Описание аппаратной части](https://yprits.github.io/MK90/rus/hwru.html)
@@ -32,7 +32,7 @@
   - Игра «chess» представляет собой графическую надстройку к программе [chess.sav](http://www.ibiblio.org/pub/academic/computer-science/history/pdp-11/rt/games/) для операционной системы RT-11.
 
 
-
+_________________________________________
 
 ### MK87
 ![mk87](https://user-images.githubusercontent.com/102995285/163768441-190e5a9d-f441-432c-840d-f8ddf5491e15.jpg)
