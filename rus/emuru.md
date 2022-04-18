@@ -6,9 +6,9 @@
 ## Файлы
 Версия программы 21, обновление 21.12.2021
 
-:floppy_disk: [mk90emex.zip](https://github.com/Yprits/MK90/blob/main/mk90emex%20(3).zip) - искходники Delphi
+:floppy_disk: [mk90emex.zip](https://github.com/Yprits/MK90/raw/main/mk90emex%20(3).zip) - исходники Delphi
 
-:floppy_disk: [mk90emsr.rar](https://github.com/Yprits/MK90/blob/main/mk90emsr.zip) - скомпилированный .exe
+:floppy_disk: [mk90emsr.rar](https://github.com/Yprits/MK90/raw/main/MK90emsr.rar) - скомпилированный .exe
 
 Распакуйте файлы в пустой каталог, затем запустите программу **mk90.exe**
 
