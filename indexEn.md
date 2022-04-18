@@ -2,7 +2,7 @@
 ## All information in one place. Work in progress.
 
 :ru:
-Russian version [here](https://yprits.github.io/MK90/indeks.html) / Русская версия [here](https://yprits.github.io/MK90/indeks.html) :ru:
+Russian version [here](https://yprits.github.io/MK90/index.html) / Русская версия [here](https://yprits.github.io/MK90/index.html) :ru:
 
 
 
