@@ -22,9 +22,16 @@
 
 ### MK87
 ![mk87](https://user-images.githubusercontent.com/102995285/163768441-190e5a9d-f441-432c-840d-f8ddf5491e15.jpg)
-- [Эмулятор](https://github.com/Yprits/MK90/files/8504129/mk87emul.zip)
-- [Исходники](https://github.com/Yprits/MK90/files/8504133/isxodnik.zip)
+
+Дизайн этой электронной записной книжки вдохновлен аналогичной Casio PF-3000, но он создан на той же компонентной базе, что и МК85.
+- [Эмулятор](https://github.com/Yprits/MK90/files/8504129/mk87emul.zip) v05
+- [Исходники](https://github.com/Yprits/MK90/files/8504133/isxodnik.zip) v05
+- [Более новая версия эмулятора](https://github.com/Yprits/MK90/files/8504247/mk87emex.zip) (v06, без исходников)
 - [Сервисный пакет](https://github.com/Yprits/MK90/files/8504154/opisanie.zip) (содержит схемы, руководство пользователя и др.)
+- **ПОИСК**
+  - частично прокомментированного ПЗУ;
+  - исходников v06;
+  - эмулятора v07 и выше (если таковой был) и исходников к нему
 
 
 
