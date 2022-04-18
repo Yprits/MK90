@@ -1,7 +1,7 @@
 # MK90 & Co.
 ## Вся информация в одном месте. Работа в процессе.
 
-🇬🇧 English version [here](https://yprits.github.io/MK90) / Английская версия [здесь](https://yprits.github.io/MK90) 🇬🇧
+🇬🇧 English version [here](https://yprits.github.io/MK90/indexEn.html) / Английская версия [здесь](https://yprits.github.io/MK90/indexEn.html) 🇬🇧
 
 Дамп всего сайта Петра Пиатека *(3.2021, некоторая информация устарела)*:
 [1](https://github.com/Yprits/MK90/raw/main/Pisi(3-E).rar)
