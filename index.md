@@ -24,6 +24,7 @@ _________________________________________
 - [Простой считыватель/программатор картриджей](https://yprits.github.io/MK90/rus/prgru.html)
 - [Программирование МК90](https://yprits.github.io/MK90/rus/asmru.html)
 - Частично прокомментированный дизассемблинг ПЗУ [BASIC version 2.0](https://github.com/Yprits/MK90/files/8502160/mk90ro20.2.zip) и [BASIC version 1.0](https://github.com/Yprits/MK90/raw/main/rom1.src)
+- [Список](https://github.com/Yprits/MK90/files/8528484/_v0.1.txt) векторов, адресов и системных переменных для BASIC 1.0 *(дополняется)*
 - [Эмулятор МК90 для Windows](https://yprits.github.io/MK90/rus/emuru.html) (с исходниками)
 - [Дамп картриджа СМП92-1 (ПЗУ)](https://github.com/Yprits/MK90/files/8505852/smp92-1.zip), содержащего игры и обучалки, которые можно запустить на эмуляторе (v.09+, BASIC 2.0) - предоставлено [Сергеем Фроловым](http://www.leningrad.su/museum/).
   - [Здесь](https://www.youtube.com/watch?v=48pmWw4TG1o) показано, как выглядят эти игры на настоящем компьютере.
